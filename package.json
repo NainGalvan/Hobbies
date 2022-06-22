@@ -1,0 +1,23 @@
+{
+  "name": "hobbies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines" : {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NainGalvan/Hobbies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NainGalvan/Hobbies/issues"
+  },
+  "homepage": "https://github.com/NainGalvan/Hobbies#readme"
+}
